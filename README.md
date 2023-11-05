@@ -32,7 +32,7 @@ If you want to play again, just run the code again.
 
 ## AI Opponent
 
-The AI oppopnent (marked as 'O') uses the minimax with aplha-beta pruning algorithm to make strategic moves.
+The AI oppopnent (marked as 'O') uses the minimax with [aplha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) algorithm to make strategic moves.
 It calculates the best move by exploring different possibilities and choosing the most optimal one.
 On a 3x3 grid, the AI plays perfectly, so unfortunately for you, you cant't beat it (of course, you can try).
 
