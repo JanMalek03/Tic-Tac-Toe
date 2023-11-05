@@ -24,15 +24,15 @@ Replace filename with the name of the Python script where your code is located.
 
 ## How to Play
 
-The game is played on a 3x3 grid. Players take turns making their moves, with 'X' representing the first player and 'O' the second.
-Players input the row and column of their move, where valid input ranges from 1 to 3.
+The game is played on a 3x3 grid. Players take turns making their moves, with 'X' representing the first player and 'O' the second. The first player to get 3 of her marks in a row (up, down, across, diagonally) is the winner.
+Players input the row and column of their move, where valid input ranges from 1 to 3 (e.g., "2 1" to place your mark in the second row, first column).
 The game continues until a player wins or it ends in a draw.
 If you want to play again, just run the code again.
 
 
 ## AI Opponent
 
-The AI opponent (marked as 'O') uses the minimax with [aplha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) algorithm to make strategic moves.
+The AI opponent (marked as 'O') uses the minimax with [alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) algorithm to make strategic moves.
 It calculates the best move by exploring different possibilities and choosing the most optimal one.
 On a 3x3 grid, the AI plays perfectly, so unfortunately for you, you can't beat it (of course, you can try).
 
