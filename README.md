@@ -25,7 +25,7 @@ Replace filename with the name of the Python script where your code is located.
 ## How to Play
 
 The game is played on a 3x3 grid. Players take turns making their moves, with 'X' representing the first player and 'O' the second. The first player to get 3 of her marks in a row (up, down, across, diagonally) is the winner.
-Players input the row and column of their move, where valid input ranges from 1 to 3 (e.g., "2 1" to place your mark in the second row, first column).
+Players input the row and column of their move, where valid input ranges from 1 to 3 (e.g., 2 than 1 to place your mark in the second row, first column).
 The game continues until a player wins or it ends in a draw.
 If you want to play again, just run the code again.
 
