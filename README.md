@@ -18,9 +18,7 @@ Additionally, there is an AI opponent that plays as 'O'.
 To run the game, you need to have Python installed on your computer. You can download and install Python from [the official website](https://www.python.org/downloads/).
 To start the game, simply run the following command in command line:
 
-    python filename.py
-
-Replace filename with the name of the Python script where your code is located.
+    python Tic_Tac_Toe_3x3.py
 
 
 ## How to Play
