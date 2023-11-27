@@ -46,7 +46,7 @@ Through the development of this Tic-Tac-Toe game, I've gained insights and honed
 - **Minimax Algorithm**: Understanding the minimax decision rule for predicting moves and its implementation for the AI opponent.
 - **Alpha-Beta Pruning**: Learning about optimizing the minimax algorithm by pruning unnecessary branches in the search tree, thus improving AI efficiency.
 - **User Input Handling**: Managing user input and providing feedback for invalid moves, ensuring a seamless player experience.
-- **Python Best Practices**: Writing clear, concise, and PEP 8 compliant Python code to enhance readability and maintainability.
+- **Python Code Quality**: Focused on writing clear and organized code that follows Python's standard style guidelines, which makes the code easier to read and maintain.
 
 This project has been an excellent exercise in applying algorithmic thinking and Python programming to create a functional, enjoyable game. It stands as a practical example of my coding approach, with opportunities for further expansion and improvement.
 
