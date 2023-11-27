@@ -9,6 +9,7 @@ Additionally, there is an AI opponent that plays as 'O'.
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
 - [AI Opponent](#ai-opponent)
+- [Learnings and Takeaways](#learnings-and-takeaways)
 - [Contributing](#contributing)
 
 
@@ -17,7 +18,7 @@ Additionally, there is an AI opponent that plays as 'O'.
 To run the game, you need to have Python installed on your computer. You can download and install Python from [the official website](https://www.python.org/downloads/).
 To start the game, simply run the following command in command line:
 
-python filename.py
+    python filename.py
 
 Replace filename with the name of the Python script where your code is located.
 
@@ -35,6 +36,20 @@ If you want to play again, just run the code again.
 The AI opponent (marked as 'O') uses the minimax with [alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) algorithm to make strategic moves.
 It calculates the best move by exploring different possibilities and choosing the most optimal one.
 On a 3x3 grid, the AI plays perfectly, so unfortunately for you, you can't beat it (of course, you can try).
+
+
+## Learnings and Takeaways
+
+Through the development of this Tic-Tac-Toe game, I've gained insights and honed my skills in several areas:
+
+- **Game Logic Implementation**: Developing the rules and state management to accurately reflect the game's progress.
+- **Minimax Algorithm**: Understanding the minimax decision rule for predicting moves and its implementation for the AI opponent.
+- **Alpha-Beta Pruning**: Learning about optimizing the minimax algorithm by pruning unnecessary branches in the search tree, thus improving AI efficiency.
+- **User Input Handling**: Managing user input and providing feedback for invalid moves, ensuring a seamless player experience.
+- **Python Best Practices**: Writing clear, concise, and PEP 8 compliant Python code to enhance readability and maintainability.
+
+This project has been an excellent exercise in applying algorithmic thinking and Python programming to create a functional, enjoyable game. It stands as a practical example of my coding approach, with opportunities for further expansion and improvement.
+
 
 
 ## Contributing
