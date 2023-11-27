@@ -38,13 +38,11 @@ On a 3x3 grid, the AI plays perfectly, so unfortunately for you, you can't beat 
 
 ## Learnings and Takeaways
 
-Through the development of this Tic-Tac-Toe game, I've gained insights and honed my skills in several areas:
+Through the development of this Tic-Tac-Toe game, I have improved my skills in several areas:
 
-- **Game Logic Implementation**: Developing the rules and state management to accurately reflect the game's progress.
 - **Minimax Algorithm**: Understanding the minimax decision rule for predicting moves and its implementation for the AI opponent.
 - **Alpha-Beta Pruning**: Learning about optimizing the minimax algorithm by pruning unnecessary branches in the search tree, thus improving AI efficiency.
-- **User Input Handling**: Managing user input and providing feedback for invalid moves, ensuring a seamless player experience.
-- **Python Code Quality**: Focused on writing clear and organized code that follows Python's standard style guidelines, which makes the code easier to read and maintain.
+- **Python Code Quality**: Focused on writing clear and organized code, making the code easier to read and maintain.
 
 This project has been an excellent exercise in applying algorithmic thinking and Python programming to create a functional, enjoyable game. It stands as a practical example of my coding approach, with opportunities for further expansion and improvement.
 
